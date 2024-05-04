@@ -23,6 +23,8 @@ Create the dummy repository in github for this task.
 
 Please take screenshot for each and every step.
 
+hello world
+
 You can use any format, PDF, Word, PPT so no constraints on that part. 
 
 For Jenkins part, please take screenshot for the configuration
